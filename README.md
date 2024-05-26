@@ -12,9 +12,9 @@
 
 | Day | Staff Member |  Time |Location |
 | --- | --- | --- | --- |
-|Tuesday |  Yemi, Ilanna |   10a - 12p | 3rd Floor Lounge |
-|Wednesday   |  Yemi, Ilanna |   11a - 12p |3rd Floor Lounge |
-|Thursday   |  Yemi, Ilanna |   10a - 12p |3rd Floor Lounge |
+|Tuesday |  Yemi, Ilanna | 10a - 12p | Tyler 055 |
+|Wednesday   |  Yemi, Ilanna | 11a - 12p | Tyler 055 |
+|Thursday   |  Yemi, Ilanna | 10a - 12p | Tyler 055 |
 
 **Discussion Session**
 <br> <!--Location: TBD-->
