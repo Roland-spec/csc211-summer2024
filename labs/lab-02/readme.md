@@ -166,7 +166,7 @@ int main(){
 :white_check_mark: [`program1.cpp`] Implement an algorithm using c++ to apply the quadratic formula to three numbers given by the user (the quadratic formula can be seen below).<br />
 
 
-<center><img src="images/quadratic-formula.png" width="250px"></center>
+<center><img src="images/quadratic-formula.png" width="550px"></center>
 
 You can assume access to `sqrt(expression)` and `pow(base, exponent)`, which can perform the square root and exponent operations, respectively. 
 
