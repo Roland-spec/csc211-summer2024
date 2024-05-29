@@ -147,7 +147,7 @@ int main(){
 
 Now, our output will be in the correct form of 1.75. These small details can lead to very hard-to-find bugs in our program known as `semantic errors`. Unlike `syntax errors`, we have not violated the grammar of the language we are using, but the expected output is not correct because of a logical error.
 
-**In your CS50 IDE, make several files `program1.cpp - program4.cpp`  and implement algorithms that solve the below problems.** 
+**In your CS50 IDE, make several files `program1.cpp - program5.cpp`  and implement algorithms that solve the below problems.** 
 
 ### Don't forget! We typically set up an empty program like this...
 
