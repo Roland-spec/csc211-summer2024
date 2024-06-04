@@ -13,7 +13,7 @@
 | Day | Staff Member |  Time |Location |
 | --- | --- | --- | --- |
 |Tuesday |  Yemi, Ilanna | 10a - 12p | Tyler 055 |
-|Wednesday   |  Yemi, Ilanna | 11a - 12p | Tyler 055 |
+|Wednesday   |  Yemi, Ilanna | 11a - 12p | Library 166 |
 |Thursday   |  Yemi, Ilanna | 10a - 12p | Tyler 055 |
 
 **Discussion Session**
