@@ -1,4 +1,4 @@
-## CSC 211 - Object Oriented Programming (Summer 2024)
+## CSC 211 - Computer Programming (Summer 2024)
 
 ### Course Instructors
 **Instructor:** Michael Conti (michaelconti@uri.edu), Tyler 132
