@@ -93,21 +93,21 @@
 
 1. [`program1.cpp`] Implement an algorithm using c++ to apply the quadratic formula to three numbers given by the user.
 
-    - Solution: [src/program1.cpp](src/program1.cpp)
+    - Solution: [program1.cpp](src/program1.cpp)
 
 2. [`program2.cpp`] Write a program that calculates the sales tax (T) of some purchase of N dollars and returns the final cost to the buyer (N + T). You can assume that sales tax is 7.0%.
 
-    - Solution: [lab-02/src/program2.cpp](./program2.cpp)
+    - Solution: [program2.cpp](src/program2.cpp)
 
 3. [`program3.cpp`] Given some 4 digit number (4321), write a program that prints out each individual digit from right to left (1 , 2, 3, 4).
 
-    - Solution (String Approach): [lab-02/src/program3-STRINGS.cpp](./program3-STRINGS.cpp)
-    - Solution (Loop/Modulo Approach): [lab-02/src/program3-LOOPS.cpp](./program3-LOOPS.cpp)
+    - Solution (String Approach): [program3-STRINGS.cpp](src/program3-STRINGS.cpp)
+    - Solution (Loop/Modulo Approach): [program3-LOOPS.cpp](src/program3-LOOPS.cpp)
 
 4. [`program4.cpp`] Write a program that asks the user for their name and greets them with their name.
 
-    - [../lab-02/src/program4.cpp](./program4.cpp)
+    - [program4.cpp](src/program4.cpp)
 
 5. [`program5.cpp`] Write a program that takes the average of three numbers that the user provides as input.
 
-    - [lab-02/src/program5.cpp](./program5.cpp)
+    - [program5.cpp](src/program5.cpp)
