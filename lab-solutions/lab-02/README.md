@@ -106,7 +106,7 @@
 
 4. [`program4.cpp`] Write a program that asks the user for their name and greets them with their name.
 
-    - [lab-02/src/program4.cpp](./program4.cpp)
+    - [../lab-02/src/program4.cpp](./program4.cpp)
 
 5. [`program5.cpp`] Write a program that takes the average of three numbers that the user provides as input.
 
