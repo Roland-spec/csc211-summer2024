@@ -93,7 +93,7 @@
 
 1. [`program1.cpp`] Implement an algorithm using c++ to apply the quadratic formula to three numbers given by the user.
 
-    - Solution: [src/program1.cpp](./program1.cpp)
+    - Solution: [src/program1.cpp](src/program1.cpp)
 
 2. [`program2.cpp`] Write a program that calculates the sales tax (T) of some purchase of N dollars and returns the final cost to the buyer (N + T). You can assume that sales tax is 7.0%.
 
