@@ -131,30 +131,30 @@
 
 1. [`program1.cpp`] Implement an algorithm using C++ that outputs the letter grade from a number grade. You can use a typical grade scheme found [here](https://pages.collegeboard.org/how-to-convert-gpa-4.0-scale).
 
-    - Solution (if Approach): [lab-03/src/program1-IF.cpp](src/program1-IF.cpp)
-    - Solution (switch Approach): [lab-03/src/program1-SWITCH.cpp](src/program1-SWITCH.cpp)
+    - Solution (if Approach): [program1-IF.cpp](src/program1-IF.cpp)
+    - Solution (switch Approach): [program1-SWITCH.cpp](src/program1-SWITCH.cpp)
 
 2. [`program2.cpp`] Implement an algorithm using C++ to detect a speeding car, given that the speed limit is 50 mph. This algorithm should have three possible outputs, "Safe" for any speed below the limit, "Pushing your luck" for any speed in the range [50-55]mph, and "Speeding" for any speed greater than 55.
 
-    - Solution: [lab-03/src/program2.cpp](src/program2.cpp)
+    - Solution: [program2.cpp](src/program2.cpp)
 
 3. [`program3.cpp`] Implement an algorithm using C++ to determine if a number is prime. This algorithm should have two possible outputs, Prime" if a number is prime, "Not Prime" otherwise.
 
-    - Solution: [lab-03/src/program3.cpp](src/program3.cpp)
+    - Solution: [program3.cpp](src/program3.cpp)
     - Faster Solution: [lab-03/src/program3-FASTER.cpp](src/program3-FASTER.cpp)
 
 4. [`program4.cpp`] Implement an algorithm using C++ to determine if a given letter is capitalized or not. This algorithm should have two possible outputs, "Upper Case" if a letter is capital, "Lower Case" otherwise.
 
-    - Solution: [lab-03/src/program4.cpp](src/program4.cpp)
+    - Solution: [program4.cpp](src/program4.cpp)
 
 5. [`program5.cpp`] Implement an algorithm using C++ to implement the following rules (see the lab). Note that a single entry can trigger multiple rules.
 
-    - Solution: [lab-03/src/program5.cpp](src/program5.cpp)
+    - Solution: [program5.cpp](src/program5.cpp)
 
 6. [`program6.cpp`] Implement an algorithm in C++ to test if a number is within a range given by the user, using a single if statement. This should take three values from the user those being (in order) the lower bound on the range, the upper bound on the range, and then the number to be tested.
 
-    - Solution: [lab-03/src/program6.cpp](src/program6.cpp)
+    - Solution: [program6.cpp](src/program6.cpp)
 
 7. [`program7.cpp`] Implement an algorithm in C++ to print the maximum of three given numbers. This should take three values from the user (in any order) and print out the largest of the three.
 
-   - Solution: [lab-03/src/program7.cpp](src/program7.cpp)
+   - Solution: [program7.cpp](src/program7.cpp)
