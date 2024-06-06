@@ -141,7 +141,7 @@
 3. [`program3.cpp`] Implement an algorithm using C++ to determine if a number is prime. This algorithm should have two possible outputs, Prime" if a number is prime, "Not Prime" otherwise.
 
     - Solution: [program3.cpp](src/program3.cpp)
-    - Faster Solution: [lab-03/src/program3-FASTER.cpp](src/program3-FASTER.cpp)
+    - Faster Solution: [program3-FASTER.cpp](src/program3-FASTER.cpp)
 
 4. [`program4.cpp`] Implement an algorithm using C++ to determine if a given letter is capitalized or not. This algorithm should have two possible outputs, "Upper Case" if a letter is capital, "Lower Case" otherwise.
 
