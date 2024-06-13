@@ -16,3 +16,25 @@ The first and only line of input contains an integer N (1 <= N <= 100000000), th
 ## Output
 
 Output a single integer – the maximum height of a pyramid that can be built with at least N blocks.
+
+
+
+### Sample Input 1	
+```
+35
+```
+### Sample Output 1
+
+```
+3
+```
+
+### Sample Input 1	
+```
+61955465
+```
+### Sample Output 1
+
+```
+359
+```
