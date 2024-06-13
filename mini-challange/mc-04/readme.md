@@ -49,11 +49,11 @@ Output a single integer – the maximum height of a pyramid that can be built wi
 3
 ```
 
-### Sample Input 1	
+### Sample Input 2
 ```
 61955465
 ```
-### Sample Output 1
+### Sample Output 2
 
 ```
 359
