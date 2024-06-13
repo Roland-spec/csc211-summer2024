@@ -1,6 +1,6 @@
-# Lab 05: References and functions
+# Lab 04: References and functions
 
-Welcome to CSC 211 Lab 05. Your goal for this lab will be to gain a better understanding of references and functional programming. **Be sure to read and follow all instructions unless otherwise specified.** Some of the language used here has been adopted from the *OpenDSA Data Structures and Algorithms Modules Collection text* text. Create a `lab-05.txt` document to record all of your lab answers in and implement all of your `.cpp` programs in your IDE.
+Welcome to CSC 211 Lab 04. Your goal for this lab will be to gain a better understanding of references and functional programming. **Be sure to read and follow all instructions unless otherwise specified.** Some of the language used here has been adopted from the *OpenDSA Data Structures and Algorithms Modules Collection text* text. Create a `lab-04.txt` document to record all of your lab answers in and implement all of your `.cpp` programs in your IDE.
 
 1. References [50 minutes] <br>
     1.1 Understanding References<br>
@@ -405,4 +405,4 @@ Functions are extremely good for making code more readable, though they are also
 
 # Part 4. Submission [5 minutes]
 
-Each group will submit a single **.zip file** named `lab-05.zip` containing all your answers to the lab questions in your `lab-05.txt` and all of your `.cpp` source code files on [Gradescope](http://gradescope.com) **before the end of your lab section**. **All submissions should be made by a group/team.** *Individual submissions will not be accepted.* Instructions to download your `lab-05.txt` file can be found in the IDE introduction page that you read in lab-01. For your convenience, that page is relinked [here](https://cs50.readthedocs.io/ide/online/).
+Each group will submit a single **.zip file** named `lab-04.zip` containing all your answers to the lab questions in your `lab-04.txt` and all of your `.cpp` source code files on [Gradescope](http://gradescope.com) **before the end of your lab section**. **All submissions should be made by a group/team.** *Individual submissions will not be accepted.* Instructions to download your `lab-04.txt` file can be found in the IDE introduction page that you read in lab-01. For your convenience, that page is relinked [here](https://cs50.readthedocs.io/ide/online/).
