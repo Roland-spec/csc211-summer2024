@@ -137,35 +137,33 @@
 
 13.  Copy the following code into your IDE, it should throw a syntax error at compile time. What does this error mean to you?
 
-    ```c++
-        #include <iostream>
-
-        int main() {
-            run();
-            return 0;
-        }
-
-        bool is_even(int n) {
-            if (!(n % 2)) return true;
-            else return false;
-        }
-
-        void run() {
-            int input;
-            while (1) {
-                std::cout << "Enter a number: " << std::endl;
-                std::cin >> input;
-
-                if (!input) break;
-                else {
-                    if (is_even(input)) std::cout << "Even" << std::endl;
-                    else std::cout << "Odd" << std::endl;
-                }
-            }
-        }
-    ```
-
-    - This error means that the functions `is_even` and `run` are not declared before the main so they cannot be called.
+      ```c++
+          #include <iostream>
+          int main() {
+              run();
+              return 0;
+          }
+  
+          bool is_even(int n) {
+              if (!(n % 2)) return true;
+              else return false;
+          }
+  
+          void run() {
+              int input;
+              while (1) {
+                  std::cout << "Enter a number: " << std::endl;
+                  std::cin >> input;
+  
+                  if (!input) break;
+                  else {
+                      if (is_even(input)) std::cout << "Even" << std::endl;
+                      else std::cout << "Odd" << std::endl;
+                  }
+              }
+          }
+      ```
+      - This error means that the functions `is_even` and `run` are not declared before the main so they cannot be called.
 
 14. What is the output of the below code?
 
