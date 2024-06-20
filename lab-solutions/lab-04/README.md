@@ -108,7 +108,7 @@
 
 8. Were you surprised by the activity in the stack on pythonTutor? What was different from your original guess?
 
-- Not suprised! Same output.
+    - Not suprised! Same output.
 
 9. What is the return type of the main function?
 
