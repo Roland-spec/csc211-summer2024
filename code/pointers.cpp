@@ -18,9 +18,8 @@ int main(){
     std::cout << temp << std::endl;
     std::cout << value << std::endl;
 
-    std::cout << *p1 << std::endl;
-    std::cout << *p2 << std::endl;
-    std::cout << *(&temp) << std::endl;
+    std::cout << &p1 << std::endl;
+    std::cout << &p2 << std::endl;
 
     
     return 0;
