@@ -24,7 +24,7 @@ if (dice == 0) {
     //Print out contents of vector {1,1}
     std::cout << "{";
         for(int i=0; i < chosen.size(); i++){
-            std::cout << chosen.at(i);
+            std::cout << chosen[i];
             if(i < chosen.size() -1){
                 std::cout << ",";
             }
