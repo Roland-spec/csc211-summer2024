@@ -35,7 +35,6 @@ void Date::addYears(int addedYears){
 
 }
 
-void operator
 
 void Date::addMonths(int addedMonths){
 
@@ -51,7 +50,7 @@ int main(){
 
     Date today;
 
-    today.set(11, 15, 2022);
+    today.set(07, 15, 2024);
     today.print();
     today.addYears(1);
     today.addMonths(1);
