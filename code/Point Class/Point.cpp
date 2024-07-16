@@ -1,7 +1,6 @@
 #include <math.h>
 #include "Point.h"
 #include <iostream>
-using namespace std;
 
 Point::Point(){
     this->x = 0;
