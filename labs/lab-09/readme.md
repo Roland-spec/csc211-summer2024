@@ -376,5 +376,5 @@ Now we are free to say some thing like `Fraction new_frac = fraction1 * fraction
 :white_check_mark: 2. Implement all functions declared in the header file for the `MyString` class.
 
 Hint: You can start by writing any function you want, but remember what we discussed in class:
-- Test as you go! When you finish a function, write a quick test case to make sure it does what you're expecting it to do.
+- Test as you go! When you finish a function, write a quick test case to make sure it does what you're expecting it to do!
 - Write the functions in an order that allows you to test them as you go. This will require you to identify dependencies, an important tool to develop.
