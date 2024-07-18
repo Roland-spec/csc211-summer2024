@@ -1,6 +1,6 @@
 # Lab 09: Classes
 
-Welcome to CSC 211 Lab 11. Your goal for this lab will be to gain a better understanding of classes. **Be sure to read and follow all instructions unless otherwise specified.**  Create a `lab-09.txt` document to record all of your lab answers in and implement all of your `.cpp` programs in your IDE.
+Welcome to CSC 211 Lab 09. Your goal for this lab will be to gain a better understanding of classes. **Be sure to read and follow all instructions unless otherwise specified.**  Create a `lab-09.txt` document to record all of your lab answers in and implement all of your `.cpp` programs in your IDE.
 
 ## 0. IDEA Course Feedback
 
@@ -35,6 +35,8 @@ An object is one of the things that comes from a blueprint.
 Much like a human is an abstract blueprint (class), you yourself are a specific instantiation (object) of a human. 
 
 # 2. Exercises 
+
+#### 2.0 A point class
 
 :white_check_mark: Question 1: Write a class that creates Cartesian coordinates in a 3D space (x, y, z). Below are the class member variables and methods you need to implement.
 ```c++
@@ -102,6 +104,9 @@ In Cartesian coordinates, if p = (p1, p2,..., pn) and q = (p1, q2,..., qn) are t
 
 <img src="images/distance.png">
 
+
+#### 2.1 A car class
+
 :white_check_mark: Question 2: Write a 'car' class that creates car objects with the below properties and make 3 different car objects initialized with different properties.
 
 ```c++
@@ -133,14 +138,14 @@ double getMileage();
 void printDetails();
 ```
 
-#### 1.2 Headers and Source Files
+#### 2.2 Headers and Source Files
 
 Just to get a bit of technical information out of the way, if you have ever worked with classes before, or even looked into any C++ repository, you will likely have seen `.h` or `.hpp` files.
 These are called *header files*, the presence of which often signifies that classes are being used. 
 This is because header files tend to contain declarations for an associated *source file*, a `.cc` or `.cpp` file, which contains method implementations. 
 Thus, if you look into this lab's starter code, you'll see a `mystring.hpp` and a `mystring.cpp`, which will respectively contain the declarations and implementations for today's class.
 
-#### 1.3 Defining a Class
+#### 2.3 Defining a Class
 
 As stated in the previous section, a class is almost always defined separately from being implemented. 
 This is so that we can tell at a glance what a class is and what it is supposed to do, without having to worry about all the details of how it does the things that it does (how its methods are implemented). 
@@ -181,7 +186,7 @@ An object may be destroyed when the function call in which an object was created
 The purpose of a destructor is to deallocate *all data* that was dynamically allocated by the object.
 If a class doesn't use any dynamically allocated memory, the destructor does not need to be explicitly defined; c++ will provide a default "do-nothing" destructor.
 
-#### 1.4 Implementing Class Methods
+#### 2.4 Implementing Class Methods
 
 Implementing class methods is a fairly straight-forward process.
 Once the header file has been created, and all relevant methods declared, all you need to do is import that header into a `.cpp` source file and start writing.
@@ -197,7 +202,7 @@ char MyString::get(int idx) {
 }
 ```
 
-#### 1.5 Creating and Using Objects
+#### 2.5 Creating and Using Objects
 
 Classes are created using their constructors, and they can be used much like any STL object you may have encountered.
 
@@ -215,7 +220,7 @@ int main(void) {
 }
 ```
 
-### 1.6 Dynamic Memory
+### 2.6 Dynamic Memory
 
 Unlike memory on the stack, which is allocated and deallocated automatically as your program operates, dynamic memory exists on the *heap* and is completely controlled by the developer. 
 To dynamically allocate memory you must explicitly use the `new` operator and store the result into a pointer. 
@@ -231,7 +236,7 @@ To dynamically allocate memory you must explicitly use the `new` operator and st
 
 Likewise, when you are done with this variable, you must call `delete`, otherwise the program will suffer from memory leaks, where memory is never deallocated.
 
-### 1.7 Operator Overloading
+### 2.7 Operator Overloading
 
 Operator overloading allows us to take some of the operators we've come to know and define specific functionality for these operators with respect to our custom designed classes. Take the following simple class to represent a fraction in C++:
 
@@ -294,7 +299,7 @@ Fraction Fraction::operator* (const Fraction &f2) const{
 
 Now we are free to say some thing like `Fraction new_frac = fraction1 * fraction2;` in a file that uses our fraction class. It should be mentioned that most operators in C++ can be overwritten for a class, but that they should be used sparingly, more specifically in places like this where a math operator makes sense since we are modelling a real world mathematical concept, where multiplication is totally legal. 
 
-## 2. The Starter Code
+## 3. The Starter Code
 
 ```c++
     class MyString {
