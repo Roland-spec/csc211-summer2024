@@ -1,6 +1,6 @@
 # Lab 09: Classes
 
-Welcome to CSC 211 Lab 11. Your goal for this lab will be to gain a better understanding of classes. **Be sure to read and follow all instructions unless otherwise specified.**  Create a `lab-09.txt` document to record all of your lab answers in and implement all of your `.cpp` programs in your IDE.
+Welcome to CSC 211 Lab 09. Your goal for this lab will be to gain a better understanding of classes. **Be sure to read and follow all instructions unless otherwise specified.**  Create a `lab-09.txt` document to record all of your lab answers in and implement all of your `.cpp` programs in your IDE.
 
 ## 0. IDEA Course Feedback
 
